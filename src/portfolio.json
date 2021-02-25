@@ -1,0 +1,44 @@
+[
+    {
+        "_id ": 1,
+        "title": "Stalk App",
+        "src": "./src/components/pages/Assets/Images/mainpage.png",
+        "href": "https://iongavrilita.github.io/STALK-P1-/",
+        "repo": "https://github.com/IonGavrilita/STALK-P1-"            
+    },
+    {
+        "_id ": 2,
+        "title": "Weather App",
+        "src": "./src/components/pages/Assets/Images/App-img.png",
+        "href": "https://iongavrilita.github.io/h6_weather_API/.",
+        "repo": "https://github.com/IonGavrilita/h6_weather_API"
+    },
+    {
+        "_id ": 3,
+        "title": "Day Planner App",
+        "src": "./src/components/pages/Assets/Images/Screenshot_Day_Planner.png",
+        "href": "https://iongavrilita.github.io/h5_Day_Planner/.",
+        "repo": "https://github.com/IonGavrilita/h5_Day_Planner"
+    },
+    {
+        "_id ": 4,
+        "title": "Hot KanBuns",
+        "src": "./src/components/pages/Assets/Images/project2.png",
+        "href": "https://hotkanbuns.herokuapp.com/",
+        "repo": "https://github.com/IonGavrilita/Hot_KanBuns"
+    },
+    {
+    "_id ": 5,
+    "title": "Note Taker",
+    "src": "./src/components/pages/Assets/Images/Main2.png",
+    "href": "https://notetakerion.herokuapp.com/notes",
+    "repo": "https://github.com/IonGavrilita/Note_Taker"
+    },
+    {
+    "_id ": 6,
+    "title": "Employee Tracker",
+    "src": "./src/components/pages/Assets/Images/Page1.png",
+    "href": "https://github.com/IonGavrilita/Employee_Trucker",
+    "repo": "https://github.com/IonGavrilita/Employee_Trucker"
+    }
+]
