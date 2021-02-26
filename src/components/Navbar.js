@@ -6,7 +6,7 @@ function Navbar() {
   const location = useLocation();
 
   return (
-    <nav className="navbar navbar-dark bg-dark">
+    <nav className="navbar navbar-dark bg-gray-dark">
         <a className="navbar-brand" href="/react-portfolio">Ion Gavrilita</a>
         
         <ul className="nav navbar-nav ml-auto d-inline-block">
