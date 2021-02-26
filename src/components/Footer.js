@@ -5,7 +5,7 @@ import './pages/style.css'
 function Footer() {
     return (
         <footer className="page-footer font-small special-color-dark pt-2 fixed-bottom">
-        <form className="container">
+        <div className="container">
           <ul className="list-unstyled list-inline text-center">
             <li className="list-inline-item">
               <a className="btn-floating btn-fb mx-1" href="https://www.facebook.com/profile.php?id=100006711426762">
@@ -23,7 +23,7 @@ function Footer() {
               </a>
             </li>
           </ul>
-        </form>
+        </div>
         <small >© 2020 Copyright: Ion Gavrilita</small>
       </footer> 
     )

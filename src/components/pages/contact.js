@@ -14,7 +14,7 @@ function Contact() {
               </div>
                   <div className="row">
                     <div className="col">
-                      <form>
+                      <div>
                         <div className="form-row mt-2">
                           <div className="col">
                             <input type="text" className="form-control" placeholder="First name"/>
@@ -23,17 +23,17 @@ function Contact() {
                             <input type="text" className="form-control" placeholder="Last name"/>
                           </div>
                         </div>
-                      </form>
-                      <form>
+                      </div>
+                      <div>
                         <div className="form-group row mt-4">
-                          <label for="colFormLabel" className="col-sm-2 col-form-label">Email</label>
+                          <label htmlFor="colFormLabel" className="col-sm-2 col-form-label">Email</label>
                           <div className="col-sm-10">
                             <input type="email" className="form-control" id="colFormLabel" placeholder="Email address"/>
                           </div>
                         </div>
                           <section className="was-validated">
                           <div className="mb-3">
-                          <label for="validationTextarea">Message</label>
+                          <label htmlFor="validationTextarea">Message</label>
                           <textarea className="form-control is-invalid" id="validationTextarea" placeholder="Message" required></textarea>
                           <div className="invalid-feedback">
                             Please enter a message in the textarea.
@@ -41,7 +41,7 @@ function Contact() {
                           </div>
                         </section>
                         <button className="btn btn-primary mb-3" type="submit">Submit</button>
-                      </form>
+                      </div>
                     </div>
                   </div>
             </section>
