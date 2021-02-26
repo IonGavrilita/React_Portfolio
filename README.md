@@ -25,7 +25,7 @@ My Portfolio developed in React.
 * Run npm start - to start the app
 
 ### Project Link & Repository
-- App Link- (https://iongavrilita.github.io/react-portfolio/about)
+- App Link- (https://iongavrilita.github.io/React_Portfolio/)
 - Repository Link - (https://github.com/IonGavrilita/React_Portfolio)
 
 ### Contributors
